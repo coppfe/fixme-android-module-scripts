@@ -1,0 +1,6 @@
+id=qcom_fastcharge_fix
+name=Qualcomm Fastcharge Disabler
+version=1.0
+versionCode=1
+author=Coppfe
+description=Disabling Qualcomm Fastcharging to ~1A (Limit: 9)
