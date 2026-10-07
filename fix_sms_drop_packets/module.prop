@@ -2,5 +2,5 @@ id=airplane_boot_fix
 name=Modem Boot Race Fix
 version=1.0
 versionCode=1
-author=KernelSU
+author=Coppfe
 description=Fixes Qualcomm SMS race condition by keeping radio off during boot
