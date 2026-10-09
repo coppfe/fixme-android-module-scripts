@@ -1,0 +1,6 @@
+id=fp_switch_proxy
+name=Fairphone Switch Proxy
+version=1.0
+versionCode=1
+author=Coppfe
+description=Maps Fairphone physical Moments switch (SW_PEN_INSERTED) to config commands
